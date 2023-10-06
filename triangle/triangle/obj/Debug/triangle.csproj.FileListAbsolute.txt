@@ -1,0 +1,11 @@
+D:\Record\КАИ\ПиТПМ\triangle\triangle\bin\Debug\triangle.exe.config
+D:\Record\КАИ\ПиТПМ\triangle\triangle\bin\Debug\triangle.exe
+D:\Record\КАИ\ПиТПМ\triangle\triangle\bin\Debug\triangle.pdb
+D:\Record\КАИ\ПиТПМ\triangle\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+D:\Record\КАИ\ПиТПМ\triangle\triangle\obj\Debug\triangle.csproj.SuggestedBindingRedirects.cache
+D:\Record\КАИ\ПиТПМ\triangle\triangle\obj\Debug\triangle.Properties.Resources.resources
+D:\Record\КАИ\ПиТПМ\triangle\triangle\obj\Debug\triangle.csproj.GenerateResource.cache
+D:\Record\КАИ\ПиТПМ\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+D:\Record\КАИ\ПиТПМ\triangle\triangle\obj\Debug\triangle.exe
+D:\Record\КАИ\ПиТПМ\triangle\triangle\obj\Debug\triangle.pdb
+D:\Record\КАИ\ПиТПМ\triangle\triangle\obj\Debug\triangle.Form1.resources
